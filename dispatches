@@ -1,0 +1,9 @@
+{
+  "event_type": "webhook",
+  "client_payload": {
+    "path": "<your-path>",
+    "method": "<request.method>",
+    "headers": "<request.headers>",
+    "body": "<request body>"
+  }
+}
